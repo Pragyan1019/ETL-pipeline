@@ -1,0 +1,86 @@
+product_id,name,category,price,stock
+1,Wireless Mouse,Electronics,29.99,150
+2,USB-C Cable,Electronics,12.5,300
+3,Laptop Stand,Office,45.0,75
+4,Blue Notebook,Stationery,5.99,500
+5,Mechanical Keyboard,Electronics,89.99,120
+6,Desk Lamp,Office,35.5,200
+7,Coffee Mug,Kitchen,8.99,450
+8,Phone Case,Accessories,15.99,280
+9,HDMI Cable,Electronics,18.75,180
+10,Pen Set,Stationery,12.0,350
+13,Laptop Sleeve,Accessories,28.0,160
+14,Sticky Notes,Stationery,3.5,600
+15,Wireless Charger,Electronics,39.99,110
+16,Desk Organizer,Office,24.99,0
+17,Travel Mug,Kitchen,19.99,225
+18,Screen Protector,Accessories,9.99,400
+19,Ethernet Cable,Electronics,14.5,190
+20,Highlighter Set,Stationery,7.25,380
+21,Ergonomic Chair,Office,299.99,45
+22,Blender,Kitchen,79.99,85
+23,Phone Stand,Accessories,16.5,255
+24,USB Hub,Electronics,32.0,140
+26,File Cabinet,Office,189.0,30
+27,Toaster,Kitchen,45.5,95
+28,Headphone Case,Accessories,12.99,310
+29,Webcam,Electronics,65.0,0
+30,Markers 12-Pack,Stationery,9.5,420
+31,Footrest,Office,38.75,125
+32,Electric Kettle,Kitchen,55.0,105
+33,Watch Band,Accessories,24.0,180
+34,Power Bank,Electronics,42.5,165
+36,Monitor,Office,249.99,60
+37,Rice Cooker,Kitchen,89.0,70
+38,Laptop Bag,Accessories,54.99,95
+40,Printer Paper,Stationery,22.0,0
+41,Whiteboard,Office,75.5,48
+42,Microwave,Kitchen,129.99,55
+43,Cable Organizer,Accessories,11.5,290
+44,Speakers,Electronics,99.0,82
+45,Calculator,Stationery,15.75,210
+46,Desk Pad,Office,26.99,135
+47,Cutting Board,Kitchen,18.5,175
+48,Sunglasses,Accessories,45.0,150
+49,Router,Electronics,79.99,68
+50,Tape Dispenser,Stationery,8.25,0
+52,Mixer,Kitchen,125.5,42
+53,Wallet,Accessories,35.99,200
+55,Stapler,Stationery,12.5,285
+56,Bookshelf,Office,159.99,28
+58,Belt,Accessories,29.5,165
+59,Tablet,Electronics,399.99,45
+60,Folders Pack,Stationery,14.0,0
+61,Standing Desk,Office,449.0,22
+62,Coffee Maker,Kitchen,79.5,88
+63,Backpack,Accessories,68.0,125
+64,Earbuds,Electronics,49.99,155
+65,Envelopes,Stationery,6.75,480
+67,Slow Cooker,Kitchen,65.0,75
+69,External Drive,Electronics,89.99,110
+70,Scissors,Stationery,5.5,0
+71,Chair Mat,Office,45.0,85
+72,Utensil Set,Kitchen,32.5,145
+73,Keychain,Accessories,8.99,340
+74,Flash Drive,Electronics,16.0,225
+75,Clipboard,Stationery,9.99,195
+76,Drawer Unit,Office,125.0,38
+78,Scarf,Accessories,28.5,115
+79,Mouse Pad,Electronics,12.99,0
+80,Paper Clips,Stationery,3.25,620
+81,Lamp Desk,Office,52.0,92
+82,Knife Set,Kitchen,149.99,48
+83,Gloves,Accessories,19.99,185
+85,Notebook Set,Stationery,18.75,265
+87,Cookware Set,Kitchen,189.5,35
+88,Umbrella,Accessories,22.0,0
+89,Docking Station,Electronics,125.0,68
+90,Post-it Notes,Stationery,11.5,410
+91,Filing Cabinet,Office,175.5,42
+92,Pressure Cooker,Kitchen,95.0,62
+94,Charging Cable,Electronics,14.99,0
+95,Ruler Set,Stationery,6.5,295
+96,Desk Calendar,Office,16.99,125
+97,Food Processor,Kitchen,135.0,52
+98,Bracelet,Accessories,45.5,145
+100,Tape,Stationery,4.75,0

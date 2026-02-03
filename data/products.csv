@@ -1,0 +1,103 @@
+product_id,name,category,price,stock
+1,Wireless Mouse,Electronics,29.99,150
+2,USB-C Cable,Electronics,12.50,300
+3,Laptop Stand,Office,45.00,75
+4,Blue Notebook,Stationery,5.99,500
+5,Mechanical Keyboard,Electronics,89.99,120
+6,Desk Lamp,Office,35.50,200
+7,Coffee Mug,Kitchen,8.99,450
+8,Phone Case,Accessories,15.99,280
+9,HDMI Cable,Electronics,18.75,180
+10,Pen Set,Stationery,12.00,350
+11,Monitor Stand,Office,-25.00,90
+12,Water Bottle,Kitchen,22.50,NULL
+13,Laptop Sleeve,Accessories,28.00,160
+14,Sticky Notes,Stationery,3.50,600
+15,Wireless Charger,Electronics,39.99,110
+16,Desk Organizer,Office,24.99,0
+17,Travel Mug,Kitchen,19.99,225
+18,Screen Protector,Accessories,9.99,400
+19,Ethernet Cable,Electronics,14.50,190
+20,Highlighter Set,Stationery,7.25,380
+1,Wireless Mouse,Electronics,29.99,150
+21,Ergonomic Chair,Office,299.99,45
+22,Blender,Kitchen,79.99,85
+23,Phone Stand,Accessories,16.50,255
+24,USB Hub,Electronics,32.00,140
+25,Planner 2024,Stationery,18.99,NULL
+26,File Cabinet,Office,189.00,30
+27,Toaster,Kitchen,45.50,95
+28,Headphone Case,Accessories,12.99,310
+29,Webcam,Electronics,65.00,0
+30,Markers 12-Pack,Stationery,9.50,420
+31,Footrest,Office,38.75,125
+32,Electric Kettle,Kitchen,55.00,105
+33,Watch Band,Accessories,24.00,180
+34,Power Bank,Electronics,42.50,165
+35,Binder Clips,Stationery,-2.50,550
+36,Monitor,Office,249.99,60
+37,Rice Cooker,Kitchen,89.00,70
+38,Laptop Bag,Accessories,54.99,95
+39,Smart Plug,Electronics,19.99,NULL
+40,Printer Paper,Stationery,22.00,0
+41,Whiteboard,Office,75.50,48
+42,Microwave,Kitchen,129.99,55
+43,Cable Organizer,Accessories,11.50,290
+44,Speakers,Electronics,99.00,82
+45,Calculator,Stationery,15.75,210
+46,Desk Pad,Office,26.99,135
+47,Cutting Board,Kitchen,18.50,175
+48,Sunglasses,Accessories,45.00,150
+49,Router,Electronics,79.99,68
+50,Tape Dispenser,Stationery,8.25,0
+51,Task Chair,Office,175.00,NULL
+52,Mixer,Kitchen,125.50,42
+53,Wallet,Accessories,35.99,200
+54,Gaming Mouse,Electronics,-15.99,95
+55,Stapler,Stationery,12.50,285
+56,Bookshelf,Office,159.99,28
+57,Air Fryer,Kitchen,119.00,NULL
+58,Belt,Accessories,29.50,165
+59,Tablet,Electronics,399.99,45
+60,Folders Pack,Stationery,14.00,0
+61,Standing Desk,Office,449.00,22
+62,Coffee Maker,Kitchen,79.50,88
+63,Backpack,Accessories,68.00,125
+64,Earbuds,Electronics,49.99,155
+65,Envelopes,Stationery,6.75,480
+66,Lamp,Office,-35.00,95
+67,Slow Cooker,Kitchen,65.00,75
+68,Hat,Accessories,24.99,NULL
+69,External Drive,Electronics,89.99,110
+70,Scissors,Stationery,5.50,0
+71,Chair Mat,Office,45.00,85
+72,Utensil Set,Kitchen,32.50,145
+73,Keychain,Accessories,8.99,340
+74,Flash Drive,Electronics,16.00,225
+75,Clipboard,Stationery,9.99,195
+76,Drawer Unit,Office,125.00,38
+77,Dinnerware Set,Kitchen,99.99,NULL
+78,Scarf,Accessories,28.50,115
+79,Mouse Pad,Electronics,12.99,0
+80,Paper Clips,Stationery,3.25,620
+1,Wireless Mouse,Electronics,29.99,150
+81,Lamp Desk,Office,52.00,92
+82,Knife Set,Kitchen,149.99,48
+83,Gloves,Accessories,19.99,185
+84,Keyboard Cover,Electronics,-8.50,155
+85,Notebook Set,Stationery,18.75,265
+86,Office Chair,Office,220.00,NULL
+87,Cookware Set,Kitchen,189.50,35
+88,Umbrella,Accessories,22.00,0
+89,Docking Station,Electronics,125.00,68
+90,Post-it Notes,Stationery,11.50,410
+91,Filing Cabinet,Office,175.50,42
+92,Pressure Cooker,Kitchen,95.00,62
+93,Handbag,Accessories,79.99,NULL
+94,Charging Cable,Electronics,14.99,0
+95,Ruler Set,Stationery,6.50,295
+96,Desk Calendar,Office,16.99,125
+97,Food Processor,Kitchen,135.00,52
+98,Bracelet,Accessories,45.50,145
+99,SSD Drive,Electronics,-99.99,75
+100,Tape,Stationery,4.75,0
