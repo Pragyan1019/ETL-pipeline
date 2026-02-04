@@ -1,0 +1,86 @@
+product_key,product_id,name,category
+1,1,"Wireless Mouse",Electronics
+2,2,"USB-C Cable",Electronics
+3,3,"Laptop Stand",Office
+4,4,"Blue Notebook",Stationery
+5,5,"Mechanical Keyboard",Electronics
+6,6,"Desk Lamp",Office
+7,7,"Coffee Mug",Kitchen
+8,8,"Phone Case",Accessories
+9,9,"HDMI Cable",Electronics
+10,10,"Pen Set",Stationery
+11,13,"Laptop Sleeve",Accessories
+12,14,"Sticky Notes",Stationery
+13,15,"Wireless Charger",Electronics
+14,16,"Desk Organizer",Office
+15,17,"Travel Mug",Kitchen
+16,18,"Screen Protector",Accessories
+17,19,"Ethernet Cable",Electronics
+18,20,"Highlighter Set",Stationery
+19,21,"Ergonomic Chair",Office
+20,22,Blender,Kitchen
+21,23,"Phone Stand",Accessories
+22,24,"USB Hub",Electronics
+23,26,"File Cabinet",Office
+24,27,Toaster,Kitchen
+25,28,"Headphone Case",Accessories
+26,29,Webcam,Electronics
+27,30,"Markers 12-Pack",Stationery
+28,31,Footrest,Office
+29,32,"Electric Kettle",Kitchen
+30,33,"Watch Band",Accessories
+31,34,"Power Bank",Electronics
+32,36,Monitor,Office
+33,37,"Rice Cooker",Kitchen
+34,38,"Laptop Bag",Accessories
+35,40,"Printer Paper",Stationery
+36,41,Whiteboard,Office
+37,42,Microwave,Kitchen
+38,43,"Cable Organizer",Accessories
+39,44,Speakers,Electronics
+40,45,Calculator,Stationery
+41,46,"Desk Pad",Office
+42,47,"Cutting Board",Kitchen
+43,48,Sunglasses,Accessories
+44,49,Router,Electronics
+45,50,"Tape Dispenser",Stationery
+46,52,Mixer,Kitchen
+47,53,Wallet,Accessories
+48,55,Stapler,Stationery
+49,56,Bookshelf,Office
+50,58,Belt,Accessories
+51,59,Tablet,Electronics
+52,60,"Folders Pack",Stationery
+53,61,"Standing Desk",Office
+54,62,"Coffee Maker",Kitchen
+55,63,Backpack,Accessories
+56,64,Earbuds,Electronics
+57,65,Envelopes,Stationery
+58,67,"Slow Cooker",Kitchen
+59,69,"External Drive",Electronics
+60,70,Scissors,Stationery
+61,71,"Chair Mat",Office
+62,72,"Utensil Set",Kitchen
+63,73,Keychain,Accessories
+64,74,"Flash Drive",Electronics
+65,75,Clipboard,Stationery
+66,76,"Drawer Unit",Office
+67,78,Scarf,Accessories
+68,79,"Mouse Pad",Electronics
+69,80,"Paper Clips",Stationery
+70,81,"Lamp Desk",Office
+71,82,"Knife Set",Kitchen
+72,83,Gloves,Accessories
+73,85,"Notebook Set",Stationery
+74,87,"Cookware Set",Kitchen
+75,88,Umbrella,Accessories
+76,89,"Docking Station",Electronics
+77,90,"Post-it Notes",Stationery
+78,91,"Filing Cabinet",Office
+79,92,"Pressure Cooker",Kitchen
+80,94,"Charging Cable",Electronics
+81,95,"Ruler Set",Stationery
+82,96,"Desk Calendar",Office
+83,97,"Food Processor",Kitchen
+84,98,Bracelet,Accessories
+85,100,Tape,Stationery
